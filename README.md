@@ -91,9 +91,35 @@ Step 5: Open the browser
 
 http://127.0.0.1:5000
 
-## Project Demo
+## Application Screenshots
 
-![App Screenshot](demo.png)
+### Home Page
+
+![Home Page](home.png)
+
+---
+
+### Register Page
+
+![Register Page](register.png)
+
+---
+
+### Login Page
+
+![Login Page](login.png)
+
+---
+
+### Send Message
+
+![Send Message](send_message.png)
+
+---
+
+### View Messages
+
+![View Messages](view_messages.png)
 
 ----------------------------------------------------
 

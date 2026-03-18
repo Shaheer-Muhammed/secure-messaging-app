@@ -49,6 +49,7 @@ RSA Encryption
 
 secure_messaging_app
 
+demo.png
 app.py  
 database.db  
 requirements.txt  
@@ -89,6 +90,10 @@ python app.py
 Step 5: Open the browser
 
 http://127.0.0.1:5000
+
+## Project Demo
+
+![App Screenshot](demo.png)
 
 ----------------------------------------------------
 

@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>View Messages</title>
+</head>
+<body>
+
+<h2>Received Messages</h2>
+
+<ul>
+{% for msg in messages %}
+    <li><strong>From:</strong> {{ msg.sender }} <br>
+        <strong>Message:</strong> {{ msg.content }}
+    </li>
+{% endfor %}
+</ul>
+
+</body>
+</html>

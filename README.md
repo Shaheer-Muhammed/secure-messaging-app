@@ -195,5 +195,5 @@ It includes secure password storage, encrypted communication, and database integ
 
 ## Author
 
-Shaheer
-Secure Messaging Application Project
+Shaheer-Muhammed
+

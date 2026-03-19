@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>Dashboard</title>
+</head>
+
+<body>
+
+<h2>Send Message</h2>
+
+<form method="POST" action="/send">
+
+<select name="receiver">
+
+{% for user in users %}
+
+<option value="{{user.username}}">
+{{user.username}}
+</option>
+
+{% endfor %}
+
+</select>
+
+<br><br>
+
+<input type="text" name="message" placeholder="Write message">
+
+<br><br>
+
+<button type="submit">
+Send
+</button>
+
+</form>
+
+<br>
+
+<a href="/messages">View Messages</a>
+
+</body>
+</html>

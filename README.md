@@ -195,5 +195,9 @@ It includes secure password storage, encrypted communication, and database integ
 
 ## Author
 
+<<<<<<< HEAD
 Shaheer-Muhammed
 
+=======
+Shaheer
+>>>>>>> 0db1449 (Add messages page)
